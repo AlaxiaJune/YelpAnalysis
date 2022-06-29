@@ -1,4 +1,4 @@
-## Profiling and Analyzing the Yelp Dataset Coursera Worksheet
+# Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
 Part 1: Yelp Dataset Profiling and Understanding
 
